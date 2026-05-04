@@ -1,0 +1,5 @@
+Metric,Value
+MAE all hours,2089.52
+MAE peak hours only,2089.83
+RMSE,2609.78
+SMAPE (%),14.27
